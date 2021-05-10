@@ -2,6 +2,10 @@
 
 Example program for testing `getopt(3)`.
 
+See my `getopt()` blog post for further details:
+
+- https://ifdeflinux.blogspot.com/2021/05/can-you-handle-argument.html
+
 ## Usage
 
 Clone this repository like this:
